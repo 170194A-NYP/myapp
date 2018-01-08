@@ -1,1 +1,1 @@
-web: gunicorn myapp:my-appp.py
+web: gunicorn my-appp:my-appp.py
